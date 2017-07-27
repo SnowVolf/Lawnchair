@@ -103,7 +103,7 @@
   <!-- The format string for default page scroll text [CHAR_LIMIT=none] -->
   <string name="default_scroll_format">Стр. %1$d из %2$d</string>
   <!-- The format string for Workspace page scroll text [CHAR_LIMIT=none] -->
-  <string name="workspace_scroll_format">Главные экран %1$d из %2$d</string>
+  <string name="workspace_scroll_format">Главный экран %1$d из %2$d</string>
   <!-- Description for a new page on homescreen[CHAR_LIMIT=none] -->
   <string name="workspace_new_page">Новый экран</string>
   <!-- Folder accessibility -->
@@ -220,7 +220,7 @@
   <!-- String indicating how many media item(s) is(are) selected
             eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
-    <item quantity="one">Выбрано: %1$d</item>
+    <item quantity="one">Выбран: %1$d</item>
     <item quantity="few">Выбрано: %1$d</item>
     <item quantity="other">%1$d selected</item>
   </plurals>
